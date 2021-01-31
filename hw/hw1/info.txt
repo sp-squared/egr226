@@ -1,0 +1,54 @@
+Property	Value
+Summary
+Number of Sockets	1
+Number of Physical Processors	1
+Number of Cores	*** TRIAL ***
+Number of Logical Processors	*** TRIAL ***
+CPU #1
+CPU Name	Int*** TRIAL ***(TM) i7-6820HQ CPU @ 2.70GHz
+Vendor	GenuineIntel
+Description	Intel64 Family 6 Model 94 Stepping 3
+CPU Code Name	Skylake (Core i7)
+Part Number	Not Available
+Serial Number	Not Available
+Asset Tag	Not Available
+Family	*** TRIAL ***
+Model	E
+Stepping	3
+Extended Family	6
+Extended Model	5E
+Revision	*** TRIAL ***
+Microcode	MU0*** TRIAL ***
+Number of Bits	64
+Instruction Set	ABM*** TRIAL ***X, AES, APIC, AVX, AVX2, BMI1, BMI2, CLFLUSH, CMOV, CONSTANT_TSC
+ 	CX16, CX8, DE, DS_CPL, DTS, DTS64, EPT, EST, ET64, F16C, FMA3, FPU
+ 	FXSR, HLE, HT, LAHF_LM, LM, MCA, MCE, MMX, MONITOR, MOVBE, MSR, MTRR
+ 	OSXSAVE, PAE, PAT, PBE, PCLMUL, PDCM, PGE, PNI, POPCNT, PSE, PSE36, RDRAND
+ 	RDSEED, RDTSCP, RTM, SEP, SGX, SMX, SS, SSE, SSE2, SSE3, SSE4.1, SSE4.2
+ 	SSSE3, SYSCALL, TM, TM2, TSC, TSX, VME, VMX, X2APIC, XD, XSAVE, XTPR
+Platform Name	Socket 1440 FCBGA
+Socket Designation	U3E1
+Max TDP	45.*** TRIAL ***
+Technology	x64 14nm
+Core Voltage	Not Available
+Original Clock	2700 MHz
+Original System Clock	100 MHz
+Original Multiplier	27.0
+CPU Clock	2700 MHz
+System Clock	99.*** TRIAL ***
+Max CPU Speed	2712 MHz
+FSB	Not Available
+Number of Cores per Processor	4
+Core #1
+Core #2
+Core #3
+Core #4
+Turbo Boost	Enabled
+Virtual Technology	Not Supported
+SLAT	Supported
+Hyper Threading	Enabled
+*** TRIAL ***
+L1 Data Cache	4 x 32 KBytes, 8-way set associative, 64-byte line size
+L1 Instructions Cache	4 x 32 KBytes, 8-way set associative, 64-byte line size
+L2 Cache	4 x 256 KBytes, 4-way set associative, 64-byte line size
+L3 Cache	8192 KBytes, 16-way set associative, 64-byte line size
